@@ -31,7 +31,7 @@ The Luby´s Mass Shooting occurred in October 1991; I will test all US Mass Shoo
 
 1. Hypothesis testing: z-test
 
-I want to examine whether there is a significant difference in the proportion of US Mass Shootings from before and after 1992.
+In this scenario, I want to examine whether there is a significant difference in the proportion of US Mass Shootings from before and after 1992.
 
 Ho: p1 - p2 = 0
 Ha: p1 - p2 ≠ 0
