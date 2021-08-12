@@ -31,17 +31,17 @@ The Luby´s Mass Shooting occurred in October 1991; I will test all US Mass Shoo
 
 1. Hypothesis testing: z-test
 
-In this scenario, I want to examine whether there is a significant difference in the proportion of US Mass Shootings from before and after 1992.
+In this scenario, I want to examine whether there is a significant difference in the proportion of US Mass Shootings from before and after 1991.
 
 Ho: p1 - p2 = 0
 Ha: p1 - p2 ≠ 0
 
 2. Our Hypothesis: 
 
-Does Mental Health play a role in the occurrence of Mass Shootings? 
+Does Mental Health & Age play a role in the occurrence of Mass Shootings? 
 
-Ho: p1 - p2 = 0 There is no difference between the Mental Health of Male and Mental Health of female.
-Ha: p1 - p2 ≠ 0 There is difference between the Mental Health of Male and Mental Health of female.
+Ho: p1 - p2 = 0 There is no difference between the Mental Health & Age of the attacker/s.
+Ha: p1 - p2 ≠ 0 There is difference between the Mental Health & Age of the attacker/s.
 
 
 Sources:
